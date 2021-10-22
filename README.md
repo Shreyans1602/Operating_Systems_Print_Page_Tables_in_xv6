@@ -1,7 +1,5 @@
 # Operating_Systems_Print_Page_Tables_in_xv6
 
-Read the project description below carefully several times. Also, watch this video: https://www.youtube.com/watch?v=eYfeOT1QYmg.
-
 # Print page tables
 To help visualize page tables, you need to write a function that prints the contents of the page tables. Specifically, define function: 
 
